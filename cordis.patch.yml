@@ -1,0 +1,3 @@
+- insert:
+    - id: live-narrator
+      name: '@local/live-narrator'
